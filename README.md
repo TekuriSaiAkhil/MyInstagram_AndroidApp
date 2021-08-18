@@ -2,6 +2,10 @@
 
 apk of the app is added above
 
+Use of firebase database
+see json file in
+https://github.com/TekuriSaiAkhil/MyInstagram_AndroidApp/tree/master/app/src/
+
 Chatting: 
 
 ![WhatsApp Image 2021-08-18 at 12 42 41](https://user-images.githubusercontent.com/55195454/129854508-92955c11-6e56-40a1-96b2-07d066b07c20.jpeg)
